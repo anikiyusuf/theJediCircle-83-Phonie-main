@@ -92,4 +92,12 @@ select {
     color: grey;
 }
 
-.form-group1 {}
+.logo {
+    width: 25px;
+    height: 25px;
+}
+
+.logo img {
+    height: 100%;
+    width: 100%;
+}
